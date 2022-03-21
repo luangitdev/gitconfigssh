@@ -1,4 +1,4 @@
-# gitconfigssh
+# Configuração da chave SSH no git.
 Passo a passo de configuração da chave ssh no git.
 
 #### 1) Gere suas chaves SSH (Pública e Privada) com o seguinte comando no terminal:
